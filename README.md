@@ -17,8 +17,8 @@ Victim-blaiming in Russian Media
 <p>Комсомольская правда <i>(Komsomolskaya Pravda)</i></p>
 <p>Wonderzine</p>
 <p>Lenta</p>
-<p>РИА Новости <i>RIA Novosti</i></p>
-<p>Рамблер новости <i>Rambler Novosti</i></p>
+<p>РИА Новости <i>(RIA Novosti)</i></p>
+<p>Рамблер новости <i>(Rambler Novosti)</i></p>
 <p></p>
 <p></p>
 <p></p>
