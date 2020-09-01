@@ -26,5 +26,5 @@ Victim-blaiming in Russian Media
 <p><b>CONTRIBUTORS</b></p>
 <p>Idea by <b>Tatiana Orlova</b></p>
 <p>Academic adviser <b>Daniil Skorinkin</b></p>
-<p>Advisers <b>Sergei Tihonov</b>, <b>Inga Kartozia</b></p>
+<p>Advisers <b>Sergei Tikhonov</b>, <b>Inga Kartozia</b></p>
 <p>Mark-uppers <b>Evdokia Gaydukasova</b></p>
