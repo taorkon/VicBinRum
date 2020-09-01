@@ -1,5 +1,6 @@
 # Victim-blaiming in Russian Media
-#VicBinRum
+
+<p style="color: #b8b894"><b>#VicBinRum</b></p>
 
 <p><b>DISCLAMER FOR THE MARK-UP</b></p>
 <p>Data in our corpus is from <i>dd/mm/yyyy</i> to those <i>dd/mm/yyyy</i>. We manually extracted texts from web-pages of Russian-speaking media. Search keyword was <i>iznasilovanie</i> (Russian for 'rape').</p>
