@@ -1,0 +1,14 @@
+﻿
+<header><perp-a><perp-a_ref>Известный целитель</perp-a_ref> из Бразилии получил 20 лет тюрьмы за изнасилования</perp-a></header> 
+<void_photo>
+
+<passive><perp-a> <perp-a_ref> <case> Известный бразильский целитель и духовный наставник Жоау Тейшейра ди Фариа более известный как Жоау ди Деус (порт. «Жоау от бога»)</perp-a_ref> приговорен к 19 годам и 4 месяцам лишения свободы за изнасилования.</passive></case>
+78-летний <perp-a_ref><rel-a[abcd]>целитель </perp-a_ref> обвиняется в изнасиловании четырех <vic-[abcd]_ref>пациенток</vic-[abcd]_ref> </rel-a[abcd]>, также <impers>ему вменяется 12 аналогичных <offense-a[abcd]_ref>преступлений</offense-a[abcd]_ref></impers>, <inf_source> передает телеканал Globo.</perp-a></inf_source>
+
+<vic-[abcd]_words>По словам <vic-[abcd]_ref> женщин </vic-[abcd]_ref>, <passive> истории которых анонимно были озвучены</passive> телеканалом, <offense-a[abcd]><perp-a><perp-a_ref> Жоау ди Деус </perp-a_ref> во время <cit>«духовной терапии»</cit>  совершал с ними  <sexc>действия сексуального характера</perp-a></sexc>.</offense-a[abcd]></vic-[abcd]_words> <other><vic-s>После телеэфира десятки бывших <vic-s_ref> пациенток </vic-s_ref> <perp-a_ref> целителя </perp-a_ref> <vic-s_report>обратились к журналистам и правоохранителям и поделились похожими историями.</vic-s></vic-s_report></other>
+
+<inf_source><officials_words> По данным <enforce>следствия</enforce> </inf_source>, <perp-a><perp-a_ref> Жоау ди Деус </perp-a_ref> совершал <offense-as_ref> преступления </offense-as_ref> с конца 1980-х по октябрь 2018 года</perp-a>. <vic-s>При этом одной из его «пациенток» была 11-летняя <vic-s_ref>девочка</vic-s_ref></officials_words>.
+
+<case><perp-a>В декабре 2018 года <perp-a_ref> целителя </perp-a_ref> арестовали. <perp_words>Сам <perp-a_ref> ди Деус </perp-a_ref> свою вину отрицает</perp_words>.</perp-a> <perp-a_ad><law>Его защита намерена подать апелляцию на решение <court>суда</court>.</law></perp-a_ad></case>
+
+Отметим, что <perp-a><perp-a_ref>целитель </perp-a_ref> известен не только в Бразилии. <inf_source>По данным Би-би-си</inf_source>, несколько лет назад к нему за помощью обращалась известная телеведущая из США Опра Уинфри. Кроме того, <perp-a_ref> с Жоау ди Деусом </perp-a_ref> встречались политики,  в том числе покойный президент Венесуэлы Уго Чавес и бывший президент Бразилии Луис Инасиу Лула да Силва.</perp-a>
