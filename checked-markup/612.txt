@@ -1,0 +1,17 @@
+<header>СМИ сообщили об <sexc>изнасиловании</sexc> в Москве <vic>бывшей ведущей музыкального канала</vic></header>
+<void_photo>
+
+18:07 17.07.2020 (обновлено: 19:02 17.07.2020)
+
+
+МОСКВА, 17 июл — <inf_source>РИА Новости</inf_source>. 
+
+<vic><vic_ref>Бывшая ведущая музыкального телеканала</vic_ref>, личность которой не раскрывается, <vic_report>подала заявление</vic_report> об <sexc>изнасиловании</sexc>, <inf_source>сообщила "Комсомольская правда".</inf_source></vic>
+
+<vic_blm><inf_source>По информации издания<inf_source>, <officials_words><offense><rel><vic>28-летняя <vic_ref>девушка</vic_ref> проводила время в номере гостиницы в центре Москвы вместе с неким <perp_ref>мужчиной</perp_ref>, о котором практически ничего не знала.</rel></vic></offense> Как <vic_ref>потерпевшая</vic_ref> оказалась в отеле, не сообщается.</officials_words></vic_blm>
+
+<case><impers>После ее обращения в <enforce>полицию</enforce> по горячим следам задержали <perp>27-летнего <perp_ref>уроженца Ленинградской области</perp_ref></impers></perp>.
+
+<inf_source>По данным источников газеты</inf_source>, <impers>материалы дела передали в <enforce><est>столичное управление Следственного комитета</est></enforce>.</impers></case>
+
+
