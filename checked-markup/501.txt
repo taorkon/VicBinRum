@@ -1,0 +1,9 @@
+﻿<header><case-a><perp-a><perp-a_ref>Анестезиолога-насильника</perp-a_ref> <court>осудили</court> в Петербурге</perp-a></case-a></header>
+<void_photo>
+<case-a><perp-a><impers>В Санкт-Петербурге <court>вынесли приговор</court> <perp-a_ref>анестезиологу-реаниматологу <inc>клиники «Ювента»</inc> Армену Оганесяну</impers></perp-a></perp-a_ref>.<impers>Его признали виновным в двух <article>эпизодах <sexc>изнасилования</sexc> и четырех эпизодах <sexc>насильственных действий сексуального характера</sexc></article>.</impers></case-a>
+
+<inf_source><officials_words><enforce>Следователи</enforce> ранее сообщали</inf_source>, <rel-a[abc]><offense-a[abc]>что <perp-a><vic-[abc]>19 декабря 2018 года <perp-a_ref>Оганесян</perp-a_ref> <sexc>надругался</sexc> над тремя <vic-[abc]_ref>пациентками </vic-[abc]_ref>1997, 2001 и 2002 годов рождения</vic-[abc]></rel-a[abc]></offense-a[abc]>.<case-a><perp-a_words>В ходе следствия он признал свою вину.</perp-a></perp-a_words></case-a></officials_words>
+
+<case-a><inf_source><officials_words><impers><est>В объединенной пресс-службе <court>судов Петербурга</court></est> рассказали</impers></inf_source>, что <court>суд приговорил</court> <perp-a><perp-a_ref>Оганесяна<perp-a_ref> к десяти годам колонии строгого режима. После освобождения он в течение года будет находиться в режиме ограничения свободы и шесть лет не сможет заниматься медицинской деятельностью. </perp-a>Кроме того, <passive>удовлетворен гражданский иск о возмещении морального вреда</passive> на сумму 70 тысяч рублей.</case-a></officials_words>
+
+<other><case-b><perp-b><vic-d>В конце прошлого года <impers>в Москве задержали <perp-b_ref>врача-анестезиолога</perp-b_ref></impers>, который совершил <sexc>насильственные действия сексуального характера</sexc> в отношении отказавшей ему <vic-d_ref>пациентки</vic-d_ref></vic-d></perp-b></case-b></other>.
