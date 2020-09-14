@@ -1,0 +1,15 @@
+<header><perp-a><perp-a_ref>Сантехник из Подмосковья</perp-a_ref> признался <offense-a[ab]_ref><perp-a[ab]_phviol>ещё в двух убийствах</perp-a[ab]_phviol></offense-a[ab]_ref></perp-a></header>
+
+<case><perp-a>В Московской области <perp-a_ref>сантехник</perp-a_ref>, ранее задержанный по подозрению в совершении серии <perp-as_phviol>убийств</perp-as_phviol> и <sexc>изнасилований</sexc>, признался в совершении <offense-a[ab]_ref>ещё двух аналогичных преступлений</offense-a[ab]_ref>.</perp-a></case>
+
+<void_photo>
+
+<inf_source>Об этом сообщила пресс-служба ГСУ СК России по Московской области</inf_source>.
+￼
+<perp-a><officials_words>«<cit><perp-a_ref>Подозреваемый</perp-a_ref> в ходе допроса признался <enforce>следователю</enforce>, что в сентябре и октябре 2019 года совершил <offense-a[ab]_ref><sexc>изнасилование</sexc> и <perp-a[ab]_phviol>убийство</perp-a[ab]_phviol></offense-a[ab]_ref> <vic[ab]_ref>двух женщин 1940 и 1950 годов рождения</vic[ab]_ref></cit>»</officials_words>, — <inf_source>заявили в СК</inf_source>.
+
+<case><passive>В сообщении говорится</passive>, что <passive><offense-a[ab]><offense-a[ab]_ref>преступления</offense-a[ab]_ref> были совершены по той же схеме, что и остальные</passive>, — <perp-a_ref>подозреваемый</perp-a_ref> проникал в квартиры на первых этажах через окно, душил жертв и <sexc>совершал насильственный половой акт</sexc></offense-a[ab]>.</case>
+
+<inf_source>Как передаёт РИА Новости<inf_source>, <perp-a_ref>подозреваемый</perp-a_ref> — сантехник одного из подмосковных ЖЭО.
+
+<passive>Ранее сообщалось</passive>, что <perp-a_ref>подозреваемый</perp-a_ref> признался в семи преступлениях. Он находится под стражей.</perp-a>

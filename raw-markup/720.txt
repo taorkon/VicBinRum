@@ -1,0 +1,9 @@
+<header><perp-a><perp-a_ref>Мужчину</perp-a_ref> обвинили в <offense-a[ab]_ref><sexc>изнасиловании</sexc> <vic-[ab]_ref>двух школьниц</vic-[ab]_ref> в Петербурге</offense-a[ab]_ref></perp-a></header>
+
+<void_photo>
+
+<case><passive>Обвинение в <offense-a[ab]_ref><sexc>изнасиловании</sexc> <vic-[ab]_ref>двух несовершеннолетних<vic-[ab]_ref> в квартире на набережной Черной речки</offense-a[ab]_ref> предъявлено <perp-a_ref>мужчине</perp-a_ref> в Петербурге</passive>, <inf_source>сообщает пресс-служба <enforce>городского управления СК РФ</enforce></inf_source>.
+
+"<officials_words><cit><passive>В Петербурге <perp-a_ref>мужчине</perp-a_ref> предъявлено обвинение в <offense-a[ab]-ref>совершении <sexc>преступления сексуального характера</sexc> в отношении несовершеннолетних</offense-a[ab]-ref></cit></officials_words></passive>", - <passive>говорится в сообщении</passive>.
+
+<inf_source>По данным пресс-службы</inf_source>, <offense-a[ab]><perp-a_ref>27-летний обвиняемый</perp-a_ref> 4 июля в квартире одного из домов по набережной Черной речки <sexc>изнасиловал</sexc> <vic-[ab]_ref>двух девочек 2005 и 2006 годов рождения</vic-[ab]_ref></offense-a[ab]>. <court><passive>Возбуждено уголовное дело</passive></court> <article>по пункту "а" части 3 статьи 131 УК РФ "Изнасилование", пункту "а" части 3 статьи 132 УК РФ "Насильственные действия сексуального характера".</article></case>

@@ -1,0 +1,13 @@
+<header><perp-a><perp-a_ref>Обвиняемого</perp-a_ref> в серии <perp-as_phviol>убийств</perp-as_phviol> в Подмосковье нашли мертвым в <enforce>изоляторе</enforce></perp-a></header> 
+
+<photo_void>
+
+<perp-a><perp-a_ref>Сантехника из Каширы</perp-a_ref>, которого подозревают в <perp-as_phviol>убийствах</perp-as_phviol> и <sexc>изнасилованиях</sexc> <vic_s>женщин</vic_s>, нашли мертвым в <enforce>изоляторе</enforce>, <inf_source>сообщает РИА Новости со ссылкой на <enforce>старшего помощника руководителя <est>ГСУ СК по Московской области</est> Ольгу Врадий</enforce></inf_source>.
+<officials_words><passive>Отмечается</passive>, что <offense-as>в 2010-2020-х годах <perp-a_ref>мужчина</perp-a_ref> <perp-as_phviol>убивал</perp-as_phviol> и <sexc>насиловал</sexc> <vic-s_ref>жительниц Подмосковья</vic-s_ref>. <passive>Использовалась одна и та же схема</passive>: он проникал в окна квартир на первых этажах и сначала <perp-as_phviol>душил</perp-as_phviol> <vic-s_ref>жертву</vic-s_ref>, а затем "<cit><sexc>совершал насильственный половой акт</sexc></cit>"</offense-as></officials_words>, <inf_source>отметили в <enforce>Следственном комитете</enforce></inf_source>.
+
+"<cit><officials_words><passive>Шестого июля в камере <enforce>следственного изолятора</enforce> обнаружено тело <perp-a_ref>53- летнего жителя города Каширы<perp-a_ref></passive>, обвиняемого в совершении <perp-as_phviol>убийствa</perp-as_phviol> <vic-s_ref>женщины</vic-s_ref>. <perp-a_ref>Погибший</perp-a_ref> также подозревался в совершении серии <perp-as_phviol>убийств</perp-as_phviol> и <sexc>изнасилований</sexc> на территории Ступинского и Каширского городских округов</perp-a></officials_words></cit>", – <inf_source>пояснила <enforce>Врадий</enforce></inf_source>.
+     
+<passive>Уточняется</passive>, что <perp-a><perp-a_ref>мужчина</perp-a_ref> умер от механической асфиксии (удушения)</perp-a>. Как это случилось, <passive>устанавливается</passive>. <passive>Проводится проверка на предмет возможной халатности <enforce>сотрудников СИЗО</enforce></passive>.
+<impers>Известно</impers>, что <perp-a>на допросе <perp-a_ref>сантехник</perp-a_ref> признался в семи <perp-as_phviol>убийствах</perp-as_phviol> и <sexc>изнасилованиях</sexc>, а позднее еще в двух.</perp-a>
+
+<other><inf_source>Ранее радио Sputnik сообщало</inf_source>, что <perp-b>в Татарстане оправдали <perp-b_ref>мужчину</perp-b_ref>, <offense-ba_ref><sexc>надругавшегося</sexc></offense-ba_ref> над <vic-a_ref>дочерью полутора лет</vic-a_ref></perp-b>.</other>

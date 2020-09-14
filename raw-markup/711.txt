@@ -1,0 +1,21 @@
+<header><vic-a_ref>Потерпевшая по делу об <sexc>изнасиловании</sexc> в Уфе</vic-a_ref> оценила решение <court>суда</court></header>
+
+<vic-a><vic-a_ref>Уфимская дознавательница</vic-a_ref>, являющаяся потерпевшей по делу об <offense-[abc]a_ref><sexc>изнасиловании</sexc> <perp-[abc]_ref>коллегами</perp-[abc]_ref></offense-[abc]a_ref>, оценила приговор <court><est>Верховного суда Башкирии</est></court>.</vic-a>
+
+<void_photo>
+￼
+<inf-source>Как рассказала <law>адвокат <vic-a_ref>потерпевшей</vic-a_ref> Ирина Валеева</law> телеканалу «360»</inf-source>, <vic-a><vic-a_ref>её клиентка</vic-a_ref> плохо восприняла оправдательный приговор для <perp-[ab]_ref>двоих фигурантов дела</perp-[ab]_ref></vic-a>.
+
+«<vic-a_ad><cit>Нелегко</cit></vic-a_ad>», — ответила <law>юрист</law> на вопрос о том, как <vic-a_ref>её клиентка</vic-a_ref> восприняла случившееся.
+
+Вместе с этим <law>адвокат</law> добавила, что <vic-a_ad><vic-a_ref>девушка</vic-a_ref> настаивает на том, что <vic-a_words><perp-[abc]_ref>все трое фигурантов дела</perp-[abc]_ref> виновны в <offense-[abc]a_ref><sexc>групповом изнасиловании</sexc></offence-[abc]a_ref> и <offense-[abc]a_ref><sexc>насильственных действиях сексуального характера</sexc></offense-[abc]a_ref><vic-a_words></vic-a_ad>.
+
+«<vic-a_ad><cit>Всё это время она стоит на своей позиции, что <vic-a_words>они <perp-[abc]_ref>все трое</perp-[abc]_ref> совершили <offense[abc]a_ref>эти два преступления</offense[abc]a_ref> и <perp-[abc]_ref>все трое</perp-[abc]_ref> должны быть наказаны</vic-a_words></cit></vic-a_ad>», — отметила она.
+
+<law>Валеева</law> сказала, что <vic-a_ad>подаст жалобу после получения апелляционного приговора</vic-a_ad>.
+
+<case>В декабре 2019 года <court><est>Кировский районный суд Уфы</est></court> вынес приговор <perp-[abc]_ref>трём бывшим полицейским</perp-[abc]_ref> по делу об <offense-[abc]a_ref><sexc>изнасиловании</sexc> <vic-a_ref>дознавательницы</vic-a_ref></offense-[abc]a_ref>. <perp-c><perp-c_ref>Павел Яромчук</perp-c_ref> получил шесть лет колонии</perp-c>, <perp-[ab]><perp-a_ref>Эдуард Матвеев</perp-a_ref> и <perp-b_ref>Салават Галиев</perp-b_ref> — по семь лет</perp-[ab]>.
+
+<perp-[abc]>3 июня <court><est>Верховный суд Башкирии</est></court> полностью оправдал <perp-[ab]_ref>двух из трёх бывших полицейских</perp-[ab]_ref>, которые обвиняются в <offense-[abc]a_ref><sexc>изнасиловании</sexc> дознавательницы в отделе полиции в Уфе</offense-[abc]a_ref>.</perp-[abc]> <perp-c><perp-c_ref>Яромчуку</perp-c_ref> <court><est>ВС Башкирии</est></court> сократил срок с шести до четырёх лет лишения свободы</perp-c>.
+
+<offense-[abc]a>По версии <enforce>следствия</enforce>, в ночь на 30 октября 2018 года <perp-[abc]_ref>полицейские</perp-[abc]_ref> <offense-[abc]a_ref>напали</offense-[abc]a_ref> на <vic-a_ref>23-летнюю дознавательницу</vic-a_ref> в одном из отделов полиции в Уфимском районе Башкирии и <sexc>изнасиловали</sexc> её.</offense-[abc]a><perp-[abc]><passive>Позднее они были уволены</passive></perp-[abc]>.</case>

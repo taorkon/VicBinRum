@@ -1,0 +1,15 @@
+<header><offense><perp_ref>Омский таксист</perp_ref> <sexc>изнасиловал</sexc> <vic_ref>пассажирку</vic_ref>, после чего отвез ее домой</offense></header>
+
+<void_photo>
+
+
+<case><perp><impers><enforce>Следователям</enforce> в Омске с помощью полиграфа удалось доказать вину <perp_ref>таксиста</perp_ref> в <sexc>изнасиловании</sexc> <vic_ref>21-летней девушки</vic_ref></impers></perp></case>, <inf_source>сообщили в <enforce><est>следственном управлении СК России по региону</est></enforce><inf_source>.
+<inf_source>По версии следствия</inf_source>, <rel><vic>поздно вечером 20 апреля текущего года <vic_ref>жительница Омска</vic_ref>, возвращаясь домой из больницы, поймала на улице такси</vic></rel>.
+
+"<cit><officials_words><offense><perp_ref>Водитель такси</perp_ref>, вместо того чтобы отвезти <vic_ref>девушку</vic_ref> по указанному ей адресу, <offense>отвез <vic_ref>пассажирку</vic_ref> на окружную (объездную. — Прим. ред.) дорогу, где около заброшенного здания <sexc>изнасиловал</sexc></offense>. Кроме того, он <offense>забрал себе золотое кольцо</offense>, которое было у <vic_ref>девушки</vic_ref>. После этого <perp_ref>водитель</perp_ref> отвез <vic_ref>девушку</vic_ref> домой</offense></officials_words></cit>", — <inf_source>сообщает <enforce>СУ СК</enforce></inf_source>.
+
+<case><vic><vic_ref>Потерпевшая</vic_ref> сразу <vic_report>обратилась</vic_report> к <enforce>правоохранителям</enforce></vic>, <court>было возбуждено уголовное дело</court> <article>по двум статьям — "Изнасилование" и "Грабеж"</article>.
+   
+<perp><perp_ref>Подозреваемый 36-летний таксист</perp_ref> стал отрицать свою вину, в ходе расследования объяснял, что "<cit><perp_words><offense_ref>все было по обоюдному согласию</offense_ref></perp_words></cit>", и даже вызвался пройти проверку на детекторе лжи, <inf_source>отметили в <enforce>СК</enforce></inf_source>. Но исследование на полиграфе показало, что <perp_ref>таксист</perp_ref> говорит неправду и скрывает обстоятельства <offense_ref>случившегося</offense_ref>. После того как <perp_ref>фигуранту</perp_ref> показали результаты исследования, он признал свою вину.</perp>
+
+<inf_source>В <enforce>следственном управлении</enforce> добавили</inf_source>, что <officials_words><passive>расследование уголовного дела завершено</passive>, материалы готовят к отправке в <court>суд</court></officials_words>.</case>
