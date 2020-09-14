@@ -1,0 +1,9 @@
+<header>СМИ: <perp><passive><perp_ref>Шведский хоккеист</perp_ref> обвиняется в <offense_ref><sexc>изнасиловании</sexc></offense_ref></passive></perp></header>
+
+<passive><perp><perp_ref>Один из хоккеистов высшего дивизиона чемпионата Швеции</perp_ref> обвиняется в <offense_ref><sexc>изнасиловании</sexc></offense_ref>,</perp></passive>
+<void_photo>
+Об этом сообщает <inf_source>Expressen</inf_source>. <passive>Имя <perp_ref>спортсмена</perp_ref> пока не разглашается.</passive> <impers>Известно</impers>, что <offense_ref>инцидент</offense_ref> произошёл 22 апреля в городе Карлстад, где базируется клуб «Ферьестад».
+
+<case><perp><perp_ref>Арестованный хоккеист</perp_ref> свою вину отрицает.</perp> <passive>Ведётся следствие.</passive></case>
+
+<other><passive>Ранее сообщалось</passive>, что вратарь клуба НХЛ «Рейнджерс» пожертвует $100 тыс. пострадавшим от коронавируса.</other>

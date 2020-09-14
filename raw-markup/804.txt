@@ -1,0 +1,13 @@
+<header><law>Адвокат</law> прокомментировал решение <court>суда</court> по делу об <offense-[abc]a_ref><sexc>изнасиловании</sexc></offense-[abc]a_ref> в Уфе</header>
+
+<case><law>Адвокат Аслям Халиков</law> рассказал, почему <perp-a><court><est>Верховный суд Башкирии</est></court> принял решение оправдать <perp-a_ref>его подзащитного Салавата Галиева</perp-a_ref>, <passive>который обвинялся в <offense-[abc]a><sexc>изнасиловании</sexc> <vic-a_ref>дознавательницы</vic-a_ref> в отделе полиции в Уфе вместе с <perp-[bc]_ref>двумя другими экс-полицейскими</perp-[bc]_ref></passive>.</offense-[abc]a></perp-a>
+<void_photo>
+<perp-a_ad>«<cit>Мы постоянно говорили о доказательстве полной невиновности <perp-a_ref>моего подзащитного</perp-a_ref>. <impers>В итоге нет ни одного следа биоматериалов (принадлежащих <perp-a_ref>Галиеву</perp-a_ref>), а также нет ни одного телесного повреждения, характерного именно для <sexc>изнасилования</sexc>.</impers> Другие повреждения были, но не характерные именно для <sexc>изнасилования</sexc></cit>», — приводит <inf_source>kp.ru</inf_source> слова <law>адвоката</law>.
+
+По его словам, <perp-a><passive>у <perp-a_ref>Галиева</perp-a_ref> на момент <offense-[abc]a_ref>преступления</offense-[abc]a_ref> «<cit>подтвердилось алиби</cit>»</passive>.</perp-a>
+
+«<cit><impers>Ну и наличие посторонних людей в качестве свидетелей тоже имело место. В совокупности нет ни одного доказательства его вины</impers>, что проанализировал <court><est>Верховный суд республики</est></court></cit>», — сказал он.</perp-a_ad>
+
+<perp-[abc]>3 июня <court><est>Верховный суд Башкирии</est></court> полностью оправдал <perp-[abc]_ref>двух из трёх бывших полицейских</perp-[abc]_ref>, <passive>которые обвиняются в <offense-[abc]a_ref>изнасиловании</offense-[abc]a_ref> <vic-a_ref>дознавательницы</vic-a_ref> в отделе полиции в Уфе.</passive></perp-[abc]>
+
+<perp-[abc]>В декабре 2019 года <court><est>Кировский районный суд Уфы</est></court> вынес приговор <perp-[abc]_ref>трём бывшим полицейским</perp-[abc]_ref></perp-[abc]>. <perp-b><perp-b_ref>Павел Яромчук</perp-b_ref> получил шесть лет колонии</perp-b>, <perp-[ac]><perp-c_ref>Эдуард Матвеев</perp-c_ref> и <perp-a_ref>Салават Галиев</perp-a_ref> — по семь лет.</perp-[ac]></case>
