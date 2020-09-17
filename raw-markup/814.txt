@@ -4,5 +4,5 @@
 
 МОСКВА, 5 июл — РИА Новости. <case><vic><vic_ref>Фотомодель Дарья Фисун</vic_ref> <vic_report>обратилась</vic_report> в <enforce><est>полицию Пресненского района Москвы</est></enforce> с заявлением об <offense_ref><sexc>изнасиловании</sexc></offense_ref></case>, сообщил РИА Новости <inf_source>источник в правоохранительных органах</inf_source>.
 Как сообщил источник, <><rel><vic_blm><vic_ref>девушка</vic_ref> сама пришла к <perp_ref>мужчине</perp_ref> ночью домой</vic_blm>.</rel> </vic>Сейчас <enforce>правоохранители</enforce> проверяют информацию и устанавливают личность <perp_ref>мужчины</perp_ref>.
-"<cit><vic><vic_ref>Модель Дарья Фисун</vic_ref> сообщила в полицию о том, что <impers>ее <offense_ref><sexc>изнасиловали</sexc></offense_ref></impers></vic></cit>", — сказал собеседник.
+"<cit><vic><vic_ref>Модель Дарья Фисун</vic_ref> сообщила в <enforce>полицию</enforce> о том, что <impers>ее <offense_ref><sexc>изнасиловали</sexc></offense_ref></impers></vic></cit>", — сказал собеседник.
 Официальными комментариями <enforce><est>МВД</est></enforce> и <enforce><est>Следственного комитета</est></enforce> РИА Новости пока не располагает.
