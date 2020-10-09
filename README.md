@@ -28,4 +28,4 @@
 <p>Idea by <b>Tatiana Orlova</b></p>
 <p>Academic adviser <b>Daniil Skorinkin</b></p>
 <p>Advisers <b>Sergei Tikhonov</b>, <b>Inga Kartozia</b></p>
-<p>Mark-uppers <b>Maria Dolgodvorova</b>, <b>Evdokia Gaydukasova</b>, <b>Nikita Gordeev</b>, <b>Liza Kadetova</b>, <b>Yulia Markova</b>, <b>Liudmila Putyatova</b>, <b>Anastasiya Skutina</b></p>
+<p>Mark-uppers <b>Maria Dolgodvorova</b>, <b>Evdokia Gaydukasova</b>, <b>Nikita Gordeev</b>, <b>Liza Kadetova</b>, <b>Yulia Markova</b>, <b>Anna Martynova</b>, <b>Liudmila Putyatova</b>, <b>Anastasiya Skutina</b></p>
