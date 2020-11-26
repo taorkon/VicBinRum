@@ -1,0 +1,11 @@
+
+<header><impers><perp-a><case>Петербургского <rel-a[abc]><perp-a_ref>анестезиолога</perp-a_ref> подозревают в <offense-a[abc]_ref><sexc>изнасиловании</sexc></offense-a[abc]_ref> <vic-[abc]_ref>пациенток</vic-[abc]_ref></rel-a[abc]></impers></header>
+<void_photo>
+<inf_source><officials_words><enforce><est>Следственный комитет</est></enforce></inf_source> подозревает в <offense-a[abc]_ref><sexc>сексуальных преступлениях</sexc></offense-a[abc]_ref> <perp-a_ref>
+врача-анестезиолога</perp-a_ref> одной из <inc>клиник Санкт-Петербурга</inc></perp-a></case>, <inf_source>сообщает пресс-служба <enforce>ведомства</enforce></inf_source></officials_words>.
+
+<inf_source>По версии <enforce>следствия</enforce></inf_source>, <offense-a[abc]>
+<perp-a><vic-[abc]><perp-a_ref>58-летний <rel-a[abc]>специалист</perp-a_ref> воспользовался беспомощным состоянием трех <vic-[abc]_ref>пациенток</vic-[abc]_ref> </rel-a[abc]> 1997, 2001 и 2002 годов рождения, находившихся без сознания <subst>после общего наркоза</subst>. В отношении двух <vic-[ab]_ref>пациенток</vic-[ab]_ref> он совершил <sexc>насильственные действия сексуального  характера</sexc>, <vic-c_ref>третью</vic-c_ref> — <sexc>изнасиловал</sexc>.</perp-a></vic-[abc]></offense-a[abc]>
+
+<case><enforce><est>СК</est></enforce> возбудил уголовное дело. <passive><perp-a><perp-a_ref>Подозреваемый</perp-a_ref> задержан</passive>. В настоящее время он находится в больнице под охраной из-за ухудшения состояния здоровья. <impers>Решается вопрос об избрании меры пресечения</impers></perp-a>. 
+<inf_source>По информации РИА Новости</inf_source>, с заявлением в <enforce>полицию</enforce> обратилось руководство <inc>клиники</inc>, где работает <perp-a_ref>подозреваемый</perp-a_ref>.</case>

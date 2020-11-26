@@ -1,0 +1,12 @@
+<header>
+СМИ: <perp-a_ref>Джастин Бибер</perp-a_ref> подал в суд на обвинивших его в изнасиловании</header>
+
+<case><perp-a><perp-a_ref>Канадский певец Джастин Бибер</perp-a_ref> </perp-a> подал в суд на двоих <vic-[ab]_ref>пользователей соцсетей</vic-[ab]_ref>, которые обвинили его в <sexc>изнасиловании</sexc></case>, <inf_source>передаёт портал TMZ</inf_source>.
+
+Личности <vic-[ab]_ref>девушек</vic-[ab]_ref>, которые выступили с обвинениями в адрес <perp-a_ref>артиста</perp-a_ref>, пока неизвестны. <vic-a_inwords>
+По словам одной из них, <offense-aa>в марте 2014 года <perp-a_ref>Бибер</perp-a_ref> <sexc>изнасиловал</sexc> её в номере отеля Four Seasons в штате Техас после музыкального фестиваля South by Southwest</vic-a_inwords></offense-aa>. <vic-b_inwords>Другая <vic-b_ref>девушка</vic-b_ref> утверждает, что <offense-ab><perp-a_ref>певец</perp-a_ref> <sexc>домогался</sexc> её в отеле в Нью-Йорке в мае 2015 года во время проведения бала Института костюма Met Gala</vic-b_inwords></offense-ab>. <perp_inwords>
+Все обвинения <perp-a_ref>музыкант</perp-a_ref> отвергает</perp_inwords>.
+
+<perp_inwords>По мнению <perp-a_ref>Бибера</perp-a_ref>, страницы обеих <vic-[ab]_ref>девушек</vic-[ab]_ref> в соцсетях могут принадлежать одному человеку. Также он не исключает, что целью подобных обвинений может быть разрушение его репутации и привлечение внимания</perp_inwords>.
+
+<inf_source>Согласно имеющейся информации</inf_source>, <case>сумма иска составляет 20 млн долларов. В нём <perp_inwords><perp-a_ref>Бибер</perp-a_ref> называет обвинения в свой адрес «фактически невозможными», «возмутительными» и «сфабрикованной ложью»</perp_inwords></case>.

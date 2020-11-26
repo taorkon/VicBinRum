@@ -1,0 +1,19 @@
+
+<header><perp><case>В Петербурге <vic_fam><perp_ref>мужчина</perp_ref> получил 20 лет колонии</case> за <vic>
+убийство <rel><vic_ref>
+падчерицы</vic_ref></vic></perp></rel></vic_fam></header>.
+
+<case><perp>Суд приговорил к 20 годам лишения свободы</case> <vic_fam><perp_ref>мужчину</perp_ref>, который <vic><sexc>изнасиловал </sexc>и убил <vic_ref>свою 
+
+несовершеннолетнюю <rel>падчерицу</vic_ref></vic></rel></vic_fam> в декабре 2018 года в Санкт-Петербурге</perp>, <inf_source><impers>сообщается на сайте СК РФ</impers></inf_source>.
+<impers>Ранее отмечалось</impers>, что 30 декабря 2018 года <passive><vic>
+было обнаружено тело <vic_ref>
+девочки</vic_ref></passive> 2004 года рождения</vic>. <perp>По подозрению в этих <offense_ref>преступлениях</offense_ref> <passive>был задержан ее <rel><perp_ref>отчим</perp_ref></rel></passive> 1977 года рождения</perp>.
+Следствие установило, что <offense><perp>в этот день в квартире одного из домов по улице Садовой поселка Металлострой Колпинского района Санкт-Петербурга <vic_fam><perp_ref>мужчина</perp_ref><vic>
+<cit><officials_words>"<sexc>изнасиловал</sexc> <vic_ref>свою <rel>
+падчерицу</vic_ref></rel></vic_fam>, а также совершил в отношении нее <sexc>насильственные действия сексуального характера</sexc>"</officials_words></cit>. <vic_ref>
+<vic_phviol>Девочка </vic_ref>оказала сопротивление</vic_phviol>, <perp_phviol>
+<perp_ref>мужчина</perp_ref>закрыл ей рот подушкой, задушив ее</vic></perp></perp_phviol></offense>.
+<case><impers><perp><perp_ref>Мужчину</perp_ref> признали виновным</impers> по статьям "Убийство", "<sexc>Изнасилование</sexc>", "<sexc>Насильственные действия сексуального характера</sexc>" и "Незаконный оборот наркотиков".
+<cit><officials_words>"Приговором суда <perp_ref>Соколову</perp_ref> назначено наказание в виде лишения свободы сроком на 20 лет с отбыванием наказания в исправительной колонии строгого режима с ограничением свободы сроком на два года"</perp></officials_words></cit>, - <inf_source><impers>говорится в сообщении</impers></inf_source>.
+<impers>Отмечается</impers>, что <officials_words><perp>вердикт присяжных заседателей единодушно признал его виновным и не заслуживающим снисхождения</perp></officials_words></case>.

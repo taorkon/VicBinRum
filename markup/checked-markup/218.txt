@@ -1,0 +1,7 @@
+<header><vic><vic_ref>Гимнастка Татьяна Гуцу<vic_ref> <vic_report>рассказала</vic_report></vic>, <offense>что в 15 лет пережила <sexc><offense_ref>изнасилование</offense_ref></offense></sexc></header>
+
+</header><offense>Во время турнира в Штутгарте 1991 года <vic_ref>спортсменка</vic_ref> стала жертвой <perp_ref><rel>партнёра по сборной</rel> Виталия Щербо</perp_ref></offense></header>
+
+<vic><vic_ref>Советская гимнастка и двукратная Олимпийская чемпионка 1992 года Татьяна Гуцу</vic_ref> <vic_report>рассказала</vic_report> <offense>о пережитом <sexc><offense_ref>изнасиловании</offense_ref></sexc></vic> со стороны <perp><perp_ref>партнёра по сборной Виталия Щербо</perp_ref></perp></offense>. По словам <vic_ref>спортсменки</vic_ref>,<vic_words> это произошло в 1991 году во время турнира в Штутгарте, <vic>когда ей было 15 лет.</vic></vic_words> Об этом знали другие члены команды Татьяна Топорова и Рустам Шарипов, но, как <vic_report>утверждает</vic_report> <vic_ref>Гуцу</vic_ref>,<vic_words> они не вступились за <vic_ref>гимнастку</vic_ref></vic_words>.
+
+<vic_words>«Вот моя история Золушки. Я выжила и буду поддерживать всех, кто боится говорить. Я постараюсь восстановить уверенность в себе, чтобы помочь другим»,</vic_words> — <vic><vic_report>написала</vic_report> она в своём <inc>фейсбуке</inc>.</vic>

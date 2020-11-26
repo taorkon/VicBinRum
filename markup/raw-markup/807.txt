@@ -1,0 +1,11 @@
+<header>В Саратове <court>суд</court> вынес приговор по делу о <offense-a[ab]_ref>двух <sexc>изнасилованиях</sexc></offense-a[ab]_ref></header>
+
+<case><officials_words><impers>В <enforce><est>СК Саратовской области</est></enforce> рассказали</impers>, что <perp-a><court>суд</court> приговорил <perp-a_ref>54-летнего жителя Саратова</perp-a_ref> к 12 годам заключения в колонии строгого режима за <offense-a[ab]_ref><sexc>изнасилование</sexc> <vic-a_ref>женщины</vic-a_ref> и <vic-b_ref>несовершеннолетней девушки</vic-b_ref></offense-a[ab]_ref></perp-a>.</officials_words></case>
+<void_photo>
+Как передаёт <inf_source>Nation News</inf_source> со ссылкой на пресс-службу ведомства, <perp-a><offense-aa>в 2018 году <perp-a_ref>преступник</perp-a_ref> <sexc>изнасиловал</sexc> <vic-a><vic-a_ref>женщину</vic-a_ref>, предоставлявшую услуги по лечебному массажу</vic-a></offense-aa>, <rel-aa>с которой познакомился через социальные сети</rel-aa>.
+
+<inf_source>По данным <enforce><est>областного СК</est></enforce></inf_source>, <offense-ab>он также совершил <sexc>насильственные действия сексуального характера</sexc> в отношении <vic-b_ref>15-летней школьницы</vic-b_ref></offense-ab>, <rel-ab>которой рассказал в интернете, что предоставляет подросткам возможность заработать деньги</rel-ab>.
+
+<passive>Как отмечается</passive>, <perp-a_ref>злоумышленник</perp-a_ref> <perp-a[ab]_vviol>угрожал</perp-a[ab]_vviol> <vic-[ab]_ref>жертвам</vic-[ab]_ref>, что выложит кадры видео с их участием в интернет.</perp-a>
+
+<other>Ранее <inf_source>URA.RU</inf_source> сообщало, что <case><impers>в Курганской области вынесли приговор по делу об <sexc>изнасиловании</sexc></impers></case>.</other>

@@ -1,0 +1,14 @@
+<header><perp-a><perp-a_ref>Шеф-редактор <inc>«МБХ медиа»</inc></perp-a_ref> уйдет с поста после обвинений в <offense-as_ref><sexc>домогательствах</sexc></offense-as_ref></perp-a></header>
+
+<perp_photo>
+<perp-a><perp-a_ref>Шеф-редактор издания <inc>«МБХ медиа»</inc> Сергей Простаков</perp-a_ref> объявил об уходе со своего поста из-за обвинений в <offense-as_ref><sexc>домогательствах</sexc></offense-as_ref>. Об этом он написал в <inc>Telegram</inc>.
+
+<perp-a_words>«<cit>В сложившейся ситуации я не считаю для себя возможным оставаться шеф-редактором <inc>«МБХ медиа»</inc></cit>, — сообщил <perp-a_ref>Простаков</perp-a_ref>.
+
+<perp-a_ref>Журналист</perp-a_ref> добавил, что принимает упреки, которые обрушились на него в социальной сети <inc>Twitter</inc>.
+
+«<cit>Я хочу попросить прощения у всех <vic-s_ref>девушек</vic-s_ref>, которых <offense-as_ref>обижал</offense-as_ref>, которым <offense-as_ref>мое поведение</offense-as_ref> показалось оскорбительным. Я искренне раскаиваюсь в том, что я <offense-as_ref>так себя вел</offense-as_ref> с вами. Я никогда не хотел никого обидеть или оскорбить</cit>», — написал он. По его словам, проблема заключается в его неумении «<cit>строить уважительные и равные коммуникации</cit>».</perp-a_words></perp-a>
+
+<vic-s>13 июля <vic-s_ref>несколько девушек<vic-s_ref> <vic-s_report>написали</vic-s_report> в <inc>Twitter</inc> о <offense-as_ref><sexc>домогательствах</sexc></offense-as_ref> со стороны <perp-a_ref>Простакова</perp-a_ref>. <vic-s_words>Они <vic-s_report>рассказали</vic-s_report>, что <perp-a><offense-as><perp-a_ref>журналист</perp-a_ref> трогал их, приставал к ним</offense-as>. <passive>Также сообщалось</passive>, что он присутствовал при <offense-sa_ref><sexc>групповом изнасиловании<sexc> </offense-sa_ref> <vic-a_ref>девушки</vic-a_ref> в своей квартире, хотя и не участвовал в нем.</perp-a></vic-s_words></vic-s>
+
+<other>В мае <inf_source>студенческий журнал DOXA</inf_source> сообщил о случаях <offense-ss_ref><sexc>домогательства</sexc></offense-ss_ref> на филологическом факультете со стороны <perp-s_ref>преподавателей</perp-s_ref>. После этого профессор кафедры русского языка филологического факультета МГУ Сергей Князев заявил, что собирается уволиться из университета.</other>

@@ -1,0 +1,13 @@
+<header><perp-a><perp-a_ref>Обвиняемый в <offense-as_ref>серии <perp-as_phviol>убийств</perp-as_phviol> в Подмосковье</offense-as_ref></perp-a_ref> умер в <enforce>СИЗО</enforce></perp-a></header>
+
+<perp_photo>
+
+<perp-a><passive><perp-a_ref>Сантехник из Каширы</perp-a_ref>, подозреваемый в серии <perp-as_phviol>убийств</perp-as_phviol> и <sexc>изнасилований</sexc>, найден мертвым в <enforce>СИЗО</enforce></passive></perp-a>, <inf_source>сообщила журналистам в понедельник <enforce>старший помощник руководителя <est>ГСУ СК по Московской области</est> Ольга Врадий</enforce></inf_source>.
+
+<inf_source>По данным следствия</inf_source>, <perp-a>в 2010-2020 годах <perp_ref>мужчина</perp_ref>  <offense-as_ref><perp-as_phviol>убивал</perp-as_phviol> и <sexc>насиловал</sexc></offense-as_ref> <vic-s_ref>женщин</vic-s_ref>. <offense-as><passive>Использовалась одна и та же схема</passive>: <perp-a_ref>подозреваемый</perp-a_ref> проникал в окна квартир на первых этажах и сначала <perp-as_phviol>душил</perp-as_phviol> <vic-s>жертву</vic-s>, а затем "<cit><officials_words>совершал <sexc>насильственный половой акт</sexc></officials_words></cit>"<offense-as></perp-a>, <inf_source>отмечали в <enforce>Следственном комитете</enforce></inf_source>.
+
+"<perp-a><cit><official_words><passive>Шестого июля в камере <enforce>следственного изолятора</enforce> обнаружено тело <perp-a_ref>53- летнего жителя города Каширы</perp-a_ref></passive>, обвиняемого в <offense-as_ref>совершении <perp-as_phviol>убийства</perp-as_phviol> <vic-s_ref>женщины</vic-s_ref></offense-as_ref>. <passive><perp-a_ref>Погибший</perp-a_ref> также подозревался в <offense-as_ref>совершении серии <perp-as_phviol>убийств</perp-as_phviol> и <sexc>изнасилований</sexc></offense-as_ref> на территории Ступинского и Каширского городских округов</official_words></perp-a></passive>", — <inf_source>сказала <enforce>Врадий</enforce></inf_source>.
+  
+По предварительным данным, <perp-a><perp-a_ref>мужчина</perp-a_ref> умер от механической асфиксии (удушения).</perp-a> Как это произошло, <passive>выясняется</passive>. <passive>Проводится проверка на предмет возможной халатности <enforce>сотрудников СИЗО</enforce>.</passive>
+
+<impers>Как сообщалось</impers>, <perp-a>на допросе у <enforce>следователя</enforce> <perp-a_ref>сантехник</perp-a_ref> признался в <offense-as_ref>семи <perp-as_phviol>убийствах</perp-as_phviol> и <sexc>изнасилованиях</sexc>, а позднее — еще в двух</offense-as_ref>.</perp-a>

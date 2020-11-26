@@ -1,0 +1,11 @@
+<header><case>В Севастополе сотрудники полиции задержали <perp-a><perp-a_ref>серийного насильника</perp-a_ref></perp-a></case></header>
+
+<case><perp-a>В Севастополе сотрудники правоохранительных органов задержали <perp-a_ref>местного жителя</perp-a_ref></perp-a> по подозрению в <sexc>серии изнасилований</sexc> <vic-s><vic-s_ref>женщин и школьниц </vic-s_ref></vic-s>, <inf_source><impers>сообщается на сайте регионального управления СК РФ </impers></case></inf_source>.
+
+<inf_source><impers>Как уточнили в ведомстве</impers></inf_source>, <case><passive> <perp-a><perp-a_ref>мужчина</perp-a_ref> 1975 года рождения </perp-a> был задержан </passive> 19 июня в ходе расследования <offense-as_ref>подобного преступления</offense-as_ref> в отношении <vic-s><vic-s_ref>жительницы Балаклавы</vic-s_ref></vic-s></case>. 
+
+<case><impers>Впоследствии  было установлено</impers>, что <perp-a><perp-a_ref>мужчина</perp-a_ref> причастен более чем к десяти <sexc>эпизодам насильственных действий сексуального характера</sexc></case>, <passive>которые были совершены </passive> в безлюдных местах Севастополя и Ялты, начиная с 2014 года</perp-a>.
+
+<case>В настоящее время решается вопрос об избрании ему меры пресечения, а также устанавливается его возможная причастность к <offense-as_ref>аналогичным деяниям </offense-as_ref></case>.
+
+<other><inf_source><impers>Ранее сообщалось</impers></inf_source>, что в Подмосковье задержали <perp-b_ref>сантехника</perp-b_ref> по подозрению в <perp-bs_phviol>убийстве</perp-bs_phviol> и <sexc>изнасиловании </sexc> трёх <vic-s_ref>женщин</vic-s_ref>. <offense-bs_ref>Преступления</offense-bs_ref> обычно совершались в домах <vic-s_ref>жертв</vic-s_ref></other>.

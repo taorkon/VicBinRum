@@ -1,0 +1,23 @@
+<header><passive><perp_ref>Жителю Крыма</perp_ref> предъявлено обвинение в <offense_ref><sexc>изнасиловании</sexc> и <perp_phviol>убийстве</perp_phviol> <vic_ref>ребёнка</vic_ref></offense_ref></passive></header>
+
+<case><passive><perp>В Крыму <perp_ref>39-летнему жителю посёлка Ленино</perp_ref> предъявлено обвинение в <offense_ref><sexc>изнасиловании</sexc> и <perp_phviol>убийстве</perp_phviol> <vic_ref>шестилетней девочки</vic_ref></offense_ref>.</pasive></perp></case>
+
+<void_photo>
+
+<inf_source><passive>Об этом говорится в сообщении на сайте <enforce><est>ГСУ СК по Республике Крым и городу Севастополю</est></enforce></passive></inf_source>.
+
+<inf_source>Как напомнили в ведомстве</inf_source>, <vic_fam><passive>поздним вечером 31 мая от жительницы посёлка Ленино поступило сообщение об исчезновении <vic><vic_ref>её шестилетней внучки</vic_ref></passive>, которая <rel>днём с отцом и <perp_ref>его друзьями</perp_ref> отправилась на рыбалку</rel><vic>.</vic_fam>
+
+<case>1 июня водолазы МЧС обнаружили на дне Северо-Крымского канала тело <vic-a_ref>пропавшего ребёнка</vic-a_ref>.
+
+«<cit><passive>В результате <enforce>комплекса следственно-оперативных мероприятий</enforce> <perp>установлена причастность к совершению <offense_ref>преступления в отношении <vic-a_ref>девочки</vic-a_ref></offense_ref> <perp_ref>39-летнего жителя посёлка Ленино</perp_ref></passive>, который <rel>являлся близким другом семьи</rel></cit>»</perp>, — <inf_source><passive>говорится на сайте</passive></inf_source>.</case>
+
+<vic_fam><inf_source>Как установило следствие</inf_source>, отец <vic_ref>девочки</vic_ref>, находясь на берегу канала <subst>в состоянии алкогольного опьянения</subst>, отпустил <vic_ref>дочку</vic_ref> <perp>с <perp_ref>приятелем</perp_ref>, который вызвался проводить её до дома</perp>.</vic_fam>
+
+<offense>«<cit>После этого по пути следования <perp_ref>мужчина</perp_ref>, используя беспомощное состояние <vic_ref>ребёнка</vic_ref>, совершил в отношении неё <sexc>преступления сексуального характера</sexc>. Затем, понимая, что <vic><vic_ref>девочка</vic_ref> не умеет плавать</vic>, <offense_ref><perp_phviol>столкнул</perp_phviol> её в воду</offense_ref>, в результате этого наступила её смерть от утопления</cit>»</offense>, — <inf_source>рассказали в ведомстве</inf_source>.
+
+<case><passive>О задержании <perp_ref>мужчины</perp_ref> стало известно 2 июня.</passive>
+
+<perp>В ходе допроса он дал следователям показания, признав вину.</perp>
+
+<vic_fam><passive>Ранее в отношении отца <vic_ref>девочки</vic_ref> было возбуждено уголовное дело по факту оставления ребёнка в опасности</passive>, он также задержан.</vic_fam></case>

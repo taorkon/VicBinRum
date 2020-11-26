@@ -1,0 +1,7 @@
+<header><case><perp-ab>В Красноярском крае <passive>арестованы двое <perp-ab_ref>мужчин</passive></perp-ab_ref> за <offense-[ab]a></offense-[ab]a_ref>групповое изнасилование</perp-ab></offense-[ab]a></offense-[ab]a_ref></case></header>
+
+<header><vic-a><vic-a_ref>Девушка</vic-a_ref> сбежала от них, выпрыгнув из окна</vic-a></header>
+
+<case>Следователи Красноярского края <perp-ab>арестовали двух <perp-ab_ref>мужчин</perp-ab_ref>, которые обвиняются <offense-[ab]a>в <sexc><offense-[ab]a_ref>изнасиловании и насильственных действиях сексуального характера</offense-[ab]a_ref></sexc> в отношении <vic-a_ref>девушки</vic-a_ref></offense-[ab]a></perp-ab>.</case> <inf_source>По версии следствия,</inf_source> <offense-[ab]a>ночью 10 октября <perp-a><perp-a_ref>один из обвиняемых</perp-a_ref> пригласил в квартиру <vic-a>двадцатипятилетнюю <vic-a_ref>секс-работницу</vic-a_ref></vic-a></perp-a>. «Увидев, что <perp-ab_ref>мужчин</perp-ab_ref> двое, <vic-a_ref>девушка</vic-a_ref> попыталась уйти, но они закрыли дверь и около восьми часов совершали в отношении <vic-a_ref>потерпевшей</vic-a_ref> <offense-[ab]a><sexc>сексуальное насилие</offense-[ab]a></sexc>», — <inf_source>указывается на сайте СК.</inf_source> <vic-a>Утром <vic-a_ref>девушка</vic-a_ref> смогла открыть окно и выпрыгнуть, «получив при падении тяжёлые травмы»</vic-a>.<offense-[ab]a>
+
+<perp-ab><inf_source>По данным следствия</inf_source>, тридцатидвухлетний и тридцатичетырёхлетний <perp-ab_ref><passive>«приятели»</perp-ab_ref> были неоднократно судимы</passive><perp-ab>.

@@ -1,0 +1,18 @@
+03.06.2020 15:15 283
+<header><case><perp_ref>Жителю Крыма</perp_ref> <passive>предъявлено обвинение в <sexc>педофилии</sexc> и убийстве <vic>ребенка</vic></passive></case></header>
+
+
+Москва, 3 июня - <inf_source>АиФ-Москва</inf_source>.
+
+
+<case><perp><officials_words><perp_ref>Жителю Крыма</perp_ref> следствие предъявило обвинение в <sexc>педофилии</sexc> и убийстве <vic><vic_ref>шестилетней девочки</vic_ref></vic></perp>, которую ранее обнаружили мертвой в Северо-Крымском канале, </officials_words><inf_source> говорится на сайте <est>СК РФ</est></inf_source>.
+
+<impers>Уточняется<//impers>, что <passive><perp>обвинение в <sexc>изнасиловании</sexc><vic_ref>девочки</vic_ref>, <sexc>насильственных действиях сексуального характера</sexc> и убийстве было предъявлено <perp_ref>жителю поселка Ленино</perp_ref></passive>, который во время допроса признался в содеянном. <perp_ref>Мужчина</perp_ref> также показал, как все произошло во время следственного эксперимента.<perp></case>
+
+По версии <enforce>следователей</enforce>, <officials_words><offense><vic_fam>31 мая отец девочки взял ее с собой на рыбалку, на которую отправился вместе с приятелями</vic_fam>.</officials_words> <impers>Первоначально было известно</impers>, что взрослые начали распивать <subst>спиртное</subst>, а <vic_ref>девочка</vic_ref> пропала. На следующий день ее тело нашли водолазы.
+
+Позже <enforce>следователи</enforce> установили, что <officials_words><vic_fam>отец девочки</vic_fam> <subst>в состоянии опьянения </subst>отпустил <vic_ref>ребенка</vic_ref> вместе с одним из <perp_ref>приятелей</perp_ref>, который сказал, что <perp_words>доведет девочку до дома</perp_words>. <enforce>Следователи</enforce> считают, что по дороге <perp_ref>мужчина</perp_ref> <sexc>надругался</sexc> над <vic_ref>девочкой</vic_ref>, а потом <perp_phviol>утопил</perp_phviol> ее</offense>. <perp>Позже выяснилось, что у отправившегося провожать <vic_ref>ребенка</vic_ref> домой <perp_ref>мужчины</perp_ref> были судимости, и одна из них за попытку <sexc>изнасилования</sexc></perp>.</officials_words>
+
+<case><vic_fam><passive>В отношении отца девочки также заведено дело по статье об оставлении в опасности</passive><vic_fam>. <enforce>Следователи</enforce> ходатайствуют о помещении обоих <perp_ref>мужчин</perp_ref> под арест.
+
+<impers>Ранее сообщалось о задержании обоих <perp_ref>мужчин</perp_ref></impers></case>.

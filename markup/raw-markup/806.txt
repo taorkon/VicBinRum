@@ -1,0 +1,9 @@
+<header>СМИ: <perp-a><impers><perp-a_ref>футболиста из АПЛ</perp-a_ref> обвинили в <offense_ref><sexc>групповом изнасиловании</sexc></offense_ref></impers></perp-a></header>
+
+<passive><perp-a><perp-a_ref>Неназванный игрок АПЛ</perp-a_ref> подозревается в <sexc>групповом изнасиловании</sexc>.</perp-a></passive>
+<void_photo>
+Как сообщает <inf_source>Daily Star</inf_source>, <vic-a>на <perp-a_ref>спортсмена</perp-a_ref> <vic-a_report>пожаловалась</vic-a_report> в <enforce>полицию</enforce> <vic-a_ref>некая девушка</vic-a_ref>. <offense-aa><vic-a_words>По её словам, <impers>во время вечеринки на съёмной квартире ей <subst>подмешали в спиртное наркотики</subst></impers>. На утро <vic-a_ref>пострадавшая</vic-a_ref> проснулась с расцарапанными ногами и без одежды. Рядом лежал обнажённый <perp-a_ref>футболист</perp-a_ref>, <perp-a_words>заявивший, что ночью они <sexc>занимались сексом</sexc>.</perp-a_words></offense-aa>
+
+Также <vic-a_ref>девушка</vic-a_ref> подозревает, что <offense-as><perp-s>её беспомощным состоянием воспользовались и <perp-s_ref>его друзья</perp-s_ref></perp-s>.</offense-as></vic-a_words> <vic-a_ref>Потерпевшую</vic-a_ref> осмотрели медики.</vic-a> <case><passive>Допрос <perp-a_ref>подозреваемого</perp-a_ref> в <offense-aa_ref>преступлении </offense-aa_ref>пока не проводился.</passive></case>
+
+<other><passive>Ранее сообщалось, что <perp-b><perp-b_ref>форвард лондонского «Челси» Каллум Хадсон-Одои</perp-b_ref> был задержан <enforce>полицией</enforce> по подозрению в <sexc>изнасиловании</sexc>.</perp-b></passive></other>

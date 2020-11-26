@@ -1,0 +1,10 @@
+<header><case><enforce>СК</enforce> начал проверку после <vic_report>заявления</vic_report> об <offense_ref><sexc>изнасиловании</sexc> <vic_ref>фотомодели</vic_ref> в Москве</offense_ref></case></header>
+
+<photo_void>
+
+<case><officials_words><enforce>Cледователи</enforce> начали проверку по <vic_report>заявлению</vic_report> <vic_ref>девушки</vic_ref> об <offense_ref><sexc>изнасиловании</sexc> в квартире в центре Москвы</offense_ref></officials_words>, <inf_source>сообщила в понедельник <enforce>старший помощник руководителя столичного главка СК России Юлия Иванова</enforce></inf_source>.
+
+<vic><inf_source>Ранее источник в <enforce>правоохранительных органах</enforce> сообщил РИА Новости</inf_source>, что <officials_words><vic_ref>фотомодель Дарья Фисун</vic_ref> <vic_report>обратилась в <enforce><est>полицию</vic_report> Пресненского района Москвы</est></enforce> с заявлением об <sexc>изнасиловании</sexc></officials_words>. <inf_source>По данным источника</inf_source>, <officials_words><vic_blm><vic_ref>девушка</vic_ref> сама пришла к <perp_ref>мужчине</perp_ref> домой ночью</vic_blm>, <enforce>правоохранители</enforce> проверяют информацию.</officials_words></vic>
+ 
+"<cit><officials_words><enforce><est><passive>Главным следственным управлением СК РФ по городу Москве</est></enforce> проводится доследственная проверка по <vic_report>заявлению</vic_report> <vic_ref>девушки</vic_ref> о ее <sexc>изнасиловании и насильственных действиях сексуального характера</sexc> в квартире жилого дома в центре Москвы</passive></cit></officials_words>", - <inf_source>заявила <enforce>Иванова</enforce></inf_source>.
+<inf_source>Она добавила</inf_source>, что <officials_words><passive>девушка опрошена</passive>, <passive>назначена <court>судебно-медицинская экспертиза</court></passive></officials_words>.</case>
