@@ -1,9 +1,0 @@
-<header><case>
-СМИ: <perp-a_ref>Джастин Бибер</perp-a_ref> <court>подал в суд</court> на <vic-[ab]_ref>обвинивших его в <sexc>изнасиловании</sexc></vic-[ab]_ref></case></header>
-<perp_photo>
-<case><perp-a><perp-a_ref>Канадский певец Джастин Бибер</perp-a_ref>  <court>подал в суд</court> на двоих <vic-[ab]_ref>пользователей соцсетей</vic-[ab]_ref>, которые <vic-[ab]_report>обвинили</vic-[ab]_report> его в <sexc>изнасиловании</sexc></perp-a></case>, <inf_source>передаёт портал TMZ</inf_source>.
-
-<vic-[ab]>Личности <vic-[ab]_ref>девушек</vic-[ab]_ref>, которые <vic-[ab]_report>выступили с обвинениями</vic-[ab]_report> в адрес <perp-a_ref>артиста</perp-a_ref>, пока неизвестны</vic-[ab]>. <vic-a_words><vic-a_report><vic-a>По словам</vic-a_report> одной из них, <offense-aa>в марте 2014 года <perp-a_ref>Бибер</perp-a_ref> <sexc>изнасиловал</sexc> её в номере отеля Four Seasons в штате Техас после музыкального фестиваля South by Southwest</vic-a></vic-a_words></offense-aa>. <vic-b_words><vic-b>Другая <vic-b_ref>девушка</vic-b_ref> <vic-b_report>утверждает</vic-b_report>, что <offense-ab><perp-a_ref>певец</perp-a_ref> <sexc>домогался</sexc> её в отеле в Нью-Йорке в мае 2015 года во время проведения бала Института костюма Met Gala</vic-b></vic-b_words></offense-ab>. <perp-a_words>
-<perp-a>Все обвинения <perp-a_ref>музыкант</perp-a_ref> отвергает. По мнению <perp-a_ref>Бибера</perp-a_ref>, <vic-[ab]>страницы обеих <vic-[ab]_ref>девушек</vic-[ab]_ref> в соцсетях могут принадлежать одному человеку. Также он не исключает, что целью подобных обвинений может быть разрушение его репутации и привлечение внимания</vic-[ab]></perp-a></perp-a_words>.
-
-<inf_source>Согласно имеющейся информации</inf_source>, <case>сумма иска составляет 20 млн долларов. В нём <perp-a_words><perp-a_ref>Бибер</perp-a_ref> называет обвинения в свой адрес <cit>«фактически невозможными», «возмутительными» и «сфабрикованной ложью»</cit></perp-a_words></case>.

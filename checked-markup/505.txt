@@ -1,9 +1,0 @@
-<header><impers><case><perp><vic><perp_ref>Врача</perp_ref>
- <inc>подмосковной больницы</inc> подозревают в <offense_ref><sexc>насилии </sexc></offense_ref> над  <vic_ref>пациенткой</vic_ref> реанимации </vic></perp></impers></case></header>
-
-<impers><perp><vic><perp_ref><rel><officials_words>Врача анестезиолога-реаниматолога</perp_ref> <inc>Подольской городской больницы № 2 в Московской области</inc>  подозревают в <offense_ref><sexc>сексуальном насилии</sexc></offense_ref>  над <vic_ref>43-летней пациенткой реанимационного отделения</vic_ref></perp></vic></impers></rel>,
-<inf_source> сообщает <enforce><est>Следственный комитет РФ</est></enforce> </inf_source></officials_words>.
-<enforce><officials_words>Следователи</enforce> установили, <offense>
-что в ночь с 4 на 5 января <perp><vic><perp_ref>подозреваемый</perp_ref>, находясь на суточном дежурстве <subst>в состоянии алкогольного опьянения</subst>, совершил <sexc>насильственные действия сексуального характера</sexc> в отношении лежавшей в отделении <vic_ref>женщины</vic_ref>, которая была  беспомощна и не могла сопротивляться из-за своего физического состояния</vic></perp></offense></officials_words>.
-
-<case>Расследование уголовного дела, возбужденного по<article> ч. 1 ст. 132 УК РФ «Насильственные действия сексуального характера»</article>, продолжается. <passive><perp><perp_ref>Подозреваемый</perp_ref> задержан</passive></perp>, решается вопрос о мере пресечения.</case>

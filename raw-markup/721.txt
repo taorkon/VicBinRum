@@ -1,9 +1,0 @@
-<header><perp>В Астраханской области <court>будут судить</court> <perp_ref>отца</perp_ref>, который <offense_ref>14 лет <sexc>насиловал</sexc> <vic_ref>дочь</vic_ref></offense_ref></perp></header>
-
-<photo_void>
-
-<case><perp><enforce>Следователи</enforce> передали в <court>суд</court> уголовное дело в отношении <perp_ref>жителя Астрахани</perp_ref>, обвиняемого <offense_ref>в 130 эпизодах насилия над <vic_ref>своей малолетней дочерью</vic_ref></offense_ref></perp>, <inf_source>сообщает <enforce><est>СУ СК России по Астраханской области</est></enforce></inf_source>.
-
-<inf_source>По версии следствия</inf_source>, <perp><offense>с 2005 по 2019 год <perp_ref>40-летний местный житель</perp_ref> "<cit>совершал в отношении <vic_ref>своей малолетней дочери 2000 года рождения</vic_ref> <sexc>насильственные действия сексуального характера и изнасилования</sexc></cit>".</offense> Всего, <inf_source>по данным ведомства</inf_source>, <passive>он обвиняется <offense_ref>в 130 эпизодах преступлений, предусмотренных <article>статьями "Изнасилование потерпевшей, не достигшей четырнадцатилетнего возраста", "Насильственные действия сексуального характера в отношении лица, не достигшего четырнадцатилетнего возраста"</passive>.</article></offense_ref></perp>
-     
-"<cit><officials_words><passive>Следствием собрана достаточная доказательственная база</passive>, <passive>в связи с чем уголовное дело с утвержденным обвинительным заключением направлено в <court>суд</court> для рассмотрения по существу</passive></officials_words></cit>", — <inf_source>сказано в сообщении</inf_source>.</case>

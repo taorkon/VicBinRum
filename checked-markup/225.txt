@@ -1,9 +1,0 @@
-<header><perp-a_ref>Подозреваемый в серии <perp-as_phviol><offense-as_ref>убийств</offense-as_ref></perp-as_phviol></perp-a_ref> в Подмосковье признался в новых <offense-a[ab]_ref>эпизодах</offense-a[ab]_ref></header>
-<void_photo>
-<case><perp-a><perp-a_ref>Сантехник</perp-a_ref>, <impers>которого задержали в Московской области по подозрению в <offense-as_ref>серийных <perp-as_phviol>убийствах</perp-as_phviol> и <sexc>изнасилованиях</sexc></offense-as_ref></impers>, признался следователям в совершении еще двух <offense-a[ab]_ref>преступлений</offense-a[ab]_ref>.</perp-a> Об этом сообщается на <inf_source>сайте <enforce><est>областного ГСУ СК России</est></enforce>.</inf_source>
-
-<perp-a_ref>Мужчина</perp_a_ref> признался на допросе, что в сентябре и октябре 2019 года он совершил <offense-a[ab]_ref><sexc>изнасилование</sexc> и <perp-a[ab]_phviol>убийство</perp-a[ab]_phviol></offense-a[ab]_ref> <vic-[ab]>двух <vic-[ab]>женщин<vic-[ab]> 1940 и 1950 годов рождения</vic-[ab]> по той же схеме, что и другие <offense-as_ref>преступления</offense-as_ref>.</case> <offense-as>Он проникал в окна первых этажей, сначала <perp-as_phviol>душил <vic-s_ref>жертву</vic-s_ref></perp-as_phviol>, а затем совершал <sexc>насильственный половой акт.</sexc></offense-as>
-
-<case>По данным <enforce>следователей</enforce>, <perp-a_ref>53-летний сантехник</perp-a_ref> совершал <offense-as_ref>преступления</offense-as_ref> в период с 2010 по 2020 год на территории Каширского и Ступинского городских округов. <vic-[cd]>Двум <vic-[cd]_ref>женщинам</vic-[cd]_ref> удалось выжить после <offense-a[cd]_ref>нападения</offense-a[cd]_ref>.</vic-[cd]>
-
-О задержании <perp-a_ref>мужчины</perp-a_ref> стало известно 12 июня. <impers>Тогда его заподозрили в <sexc><offense-as_ref>изнасиловании</offense-as_ref></sexc> трех <vic-s_ref>женщин</vic-s_ref> в 2013, 2015 и 2020 годах</impers>. <perp-a>На допросе у следователя он дал признательные показания.</perp-a></case>
