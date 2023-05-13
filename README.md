@@ -2,6 +2,8 @@
 
 <p style="color: #b8b894"><b>#VicBinRum</b></p>
 
+The project focused on examining victim blaming in Russian-speaking media. A corpus of articles depicting sexualized crimes was built and analyzed to gain insights into the language used and identify victim-blaming criteria. The project team developed a markup system to annotate relevant sections of the articles. Additionally, analysis tools were implemented, primarily using Python, to extract patterns and trends from the corpus. The project aimed to shed light on the dynamics of victim blaming in media discourse and contribute to a better understanding of the issue.
+
 <p><b>DISCLAMER FOR THE MARK-UP</b></p>
 <p>Data in our corpus is from <i>dd/mm/yyyy</i> to those <i>dd/mm/yyyy</i>. We manually extracted texts from web-pages of Russian-speaking media. Search keyword was <i>iznasilovanie</i> (Russian for 'rape').</p>
 <p>markuppers are certain age, gender, background. To minimize subjectivity and to find the 'average' mark-up we would need to have the whole Russia sample of 1800 people <i>(proof/source)</i> which is usually used by sociologists. But we did not have such resources.</p>
